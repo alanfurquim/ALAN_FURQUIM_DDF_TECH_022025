@@ -23,3 +23,13 @@ Com os dados devidamente selecionados, o arquivo foi enviado para a plataforma D
 <br><br>
 
 ## Item  3 - Sobre a Dadosfera - Explorar
+Nesta etapa, foram adicionadas tags à tabela para facilitar sua localização. Além disso, foi elaborada uma breve descrição sobre seu conteúdo, incluindo um resumo de cada coluna presente no dataset.
+![alt text](imgs/desc_tabela.png)
+<br><br>
+
+## Item 4 - Sobre Data Quality
+Essa etapa foi realizada dentro de um [notebook](notebooks\concat_bases.ipynb), onde temos uma análise exploratória dos dados que garante a consistência e qualidade.
+<br><br>
+
+## Item 5 - Sobre o uso de GenAI e LLMs - Processar
+Esse item está parcialmente concluído, também se encontra dentro de um [notebook](notebooks\concat_bases.ipynb), em suas últimas células.
