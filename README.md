@@ -30,11 +30,11 @@ Nesta etapa, foram adicionadas tags à tabela para facilitar sua localização. 
 <br><br>
 
 ## Item 4 - Sobre Data Quality
-Essa etapa foi realizada dentro de um [notebook](notebooks\concat_bases.ipynb), onde temos uma análise exploratória dos dados que garante a consistência e qualidade.
+Essa etapa foi realizada dentro de um [notebook](/notebooks/data_quality.ipynb), onde temos uma análise exploratória dos dados que garante a consistência e qualidade.
 <br><br>
 
 ## Item 5 - Sobre o uso de GenAI e LLMs - Processar
-Esse item está parcialmente concluído, também se encontra dentro de um [notebook](notebooks\concat_bases.ipynb), em suas últimas células.
+Esse item está parcialmente concluído, também se encontra dentro de um [notebook](/notebooks/data_quality.ipynb), em suas últimas células.
 <br><br>
 
 ## Item  7 - Sobre Análise de Dados - Analisar
