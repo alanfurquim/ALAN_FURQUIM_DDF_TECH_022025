@@ -38,3 +38,5 @@ Esse item está parcialmente concluído, também se encontra dentro de um [noteb
 <br><br>
 
 ## Item  7 - Sobre Análise de Dados - Analisar
+Entrei problemas ao realizar o item 7. Não consegui acessar o portal da Metabase com minha senha.<br>
+Tentei alterar a senha e tentar novamente mas também nao deu certo. Estou [aguardando suporte do time dadosfera](/imgs/suporte.png) no momento, em até 2 horas após eu conseguir realizar o login, irei completar esse item!
