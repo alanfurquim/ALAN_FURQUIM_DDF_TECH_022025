@@ -4,6 +4,8 @@ Case técnico base da empresa Dadosfera
 Documento criado para responder os itens propostos no arquivo enviado.
 
 ## Item 0 - Sobre Agilidade e Planejamento
+Apresentação em vídeo disponível no [youtube](https://youtu.be/da4mnRyytIM).
+<br>
 Foi criado um kanban board utilizando [um quadro no Trello](https://trello.com/b/5Ulenlp0/case-tecnico) para melhor organização dos status das diferentes tarefas.
 
 ## Item 1 - Sobre a Base de Dados
@@ -33,3 +35,6 @@ Essa etapa foi realizada dentro de um [notebook](notebooks\concat_bases.ipynb), 
 
 ## Item 5 - Sobre o uso de GenAI e LLMs - Processar
 Esse item está parcialmente concluído, também se encontra dentro de um [notebook](notebooks\concat_bases.ipynb), em suas últimas células.
+<br><br>
+
+## Item  7 - Sobre Análise de Dados - Analisar
